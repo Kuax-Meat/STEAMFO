@@ -1,0 +1,13 @@
+[GamersGate]
+URL=http://www.gamersgate.com/;
+type=class;
+key1=banner active;
+key2=img;
+
+[GetGames]
+URL=http://getgamesgo.com/;
+type=id;
+key1=banner active;
+key2=img;
+
+[null]
